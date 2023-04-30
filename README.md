@@ -1,7 +1,6 @@
-# hello_word
+# Primeiro Projeto em Flutter
 
-A new Flutter project.
-
+Estudo sobre Flutter iniciado 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
